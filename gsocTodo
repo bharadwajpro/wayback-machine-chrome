@@ -1,0 +1,13 @@
+Some of the things we would like to see added to the extension include: 
+
+- Integration with the Wayback Machine’s Site Search
+- Support for social sharing, including Twitter and Facebook
+- Display Tweets about a URL for a given date range
+- Provide user with visual feedback based on if we have archived a URL or not
+- Provide user with a one-click Summary view of a given site (Alexa Rank Whois, etc.)
+- Automatically archive URLs that are not in the Wayback Machine
+- Quick access to an overview of all the Archives for a specific URL
+
+Skills required: Javascript, Python
+
+Mentors: Mark Graham, Director, the Wayback Machine and Brenton Cheng, Sr. Engineer, The Internet Archive
